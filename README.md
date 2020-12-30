@@ -38,16 +38,23 @@ The app will start from the splase page and then show the products as an example
      env\Scripts\activate
     ```
  
- 5. Now install django
+5. Now install django
      ```bash
      pip install django
     ```
-
-6. Clone this repo
-
-   ```bash
-   git clone https://github.com/Salweyar/react-native_productApp.git
-   ```
-
+    
+6. create folder src (optional) then Clone this repo
+    ```bash
+    git clone https://github.com/Salweyar/vividswissfabrics.git
+    ```
+   
+7. Run the development server
+    ```bash
+    python manage.py runserver
+    ```
+8. Copy the url in the browser
+    ```bash
+    http://127.0.0.1:8000/
+    ```
 
       
