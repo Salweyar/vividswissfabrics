@@ -8,7 +8,7 @@ This is a starter template for python-django developer
 ## Prerequsition
 
 -install [Python](https://www.python.org/downloads/) version 3.8 or higher
--Text editor - [VS-code] (https://code.visualstudio.com/)
+-Text editor - [VS-code](https://code.visualstudio.com/)
 -pip python package manager comes with python
 
 ## Demo
