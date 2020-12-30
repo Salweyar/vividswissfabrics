@@ -15,7 +15,7 @@ This is a starter template for python-django developer
 
 The app will start from the splase page and then show the products as an examples.
 
-![]
+![](https://salweyar.github.io/images/Ecommerce-website/Ecommerce.gif)
 
 ## Usage
 
